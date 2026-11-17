@@ -15,4 +15,4 @@ Aturan:
 1. Nama file scene mengikuti nama produk aslinya — jangan di-rename sembarangan.
 2. Setiap scene yang masuk `raw/` **wajib** dicatat di `docs/tabel_scene.md` (siapa yang unduh, kapan).
 3. Baseline 100–200 titik/poligon: simpan di `baseline/` (GeoJSON), dokumentasikan cara pembuatannya di `docs/baseline.md`.
-4. Tautan folder Drive tim: *(isi di sini setelah dibuat)*
+4. Tautan folder Drive tim: *[Drive](https://drive.google.com/drive/folders/19Z5n5ad4UBTn4HGypENv1LbVjq1oXRaw?usp=sharing)*
