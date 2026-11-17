@@ -14,9 +14,9 @@ Pada 7 Oktober 2026 pemerintah mengumumkan proyek tanggul laut pantura sepanjang
 
 | Nama | NIM | Peran utama |
 |---|---|---|
-| *(isi)* | *(isi)* | Akuisisi data & dokumentasi scene |
-| *(isi)* | *(isi)* | Pra-pemrosesan & segmentasi |
-| *(isi)* | *(isi)* | Ekstraksi fitur & analisis |
+| *Aldy Tri Ramadhani* | *11241009* | Akuisisi data & dokumentasi scene |
+| *Ariel* | *11241015* | Pra-pemrosesan & segmentasi |
+| *Pandu Restu Adjie* | *11241073* | Ekstraksi fitur & analisis |
 
 *(peran hanya penanggung jawab utama — semua anggota mengerjakan pipeline bersama)*
 
