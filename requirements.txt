@@ -1,0 +1,23 @@
+# Inti (sesuai brief)
+numpy>=1.26
+opencv-python>=4.9
+scikit-image>=0.22
+rasterio>=1.3
+
+# Geospasial pendukung
+geopandas>=0.14
+shapely>=2.0
+pyproj>=3.6
+
+# Visualisasi & notebook
+matplotlib>=3.8
+jupyter
+ipykernel
+
+# Config & util
+pyyaml>=6.0
+tqdm
+pandas>=2.0
+
+# Opsional — HANYA untuk cari scene & ekspor potongan AOI (bukan komputasi inti)
+# earthengine-api

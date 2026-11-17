@@ -1,0 +1,41 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+.ipynb_checkpoints/
+
+# === Data citra  ===
+data/*
+!data/README.md
+*.tif
+*.tiff
+*.jp2
+*.img
+*.nc
+*.zip
+*.tar.gz
+*.rar
+
+# === Baseline & intermediate (dokumentasinya saja yang di-commit) ===
+*.shp
+*.shx
+*.dbf
+*.prj
+*.gpkg
+
+# === Secrets ===
+.env
+*.key
+service_account*.json
+earthengine_key*.json
+
+# === OS & editor ===
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# === Outputs besar (PNG ilustrasi kecil boleh di-commit) ===
+outputs/*.mp4
