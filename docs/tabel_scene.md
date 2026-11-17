@@ -12,5 +12,7 @@ Wajib diisi untuk **setiap scene yang dipakai** (ketentuan akuisisi poin 3 di br
 ## Catatan akuisisi
 
 - Sumber: USGS EarthExplorer (Landsat 8/9 Collection 2), Copernicus Browser (Sentinel-2 L2A), GEE hanya untuk cari scene/potong AOI.
-- Path WRS-2 Landsat untuk Demak: sekitar **path 119 row 065** (verifikasi saat mencari).
-- Sentinel-2 tile MGRS untuk Demak: sekitar **49MFM / 49MGN** (verifikasi).
+- Path WRS-2 Landsat untuk AOI kita: **path 120 row 065** (terverifikasi via katalog, 17 Nov 2026).
+- Sentinel-2 tile MGRS untuk AOI kita: **49MDN** (terverifikasi, 17 Nov 2026).
+- Jam akuisisi konsisten: Landsat ±02:47–02:51 UTC, Sentinel-2 ±03:00 UTC (≈10:50–11:00 WIB) → kondisi pasang relatif sebanding, tetap verifikasi per tanggal.
+- Daftar kandidat scene hasil survei katalog: lihat `docs/kandidat_scene.md`.

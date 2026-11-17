@@ -46,9 +46,9 @@ Deadline: **7 Desember 2026**. Presentasi progres asprak: minggu 14 & 15. Presen
 
 | Area | PJ | Backup |
 |---|---|---|
-| Akuisisi data, tabel scene, isu pasang surut | *(nama)* | *(nama)* |
-| Pra-pemrosesan & segmentasi (indeks, threshold, morfologi, baseline) | *(nama)* | *(nama)* |
-| Ekstraksi fitur & analisis (kontur, chain code, Fourier, jarak, luas) | *(nama)* | *(nama)* |
+| Akuisisi data, tabel scene, isu pasang surut | Aldy | Ariel |
+| Pra-pemrosesan & segmentasi (indeks, threshold, morfologi, baseline) | Ariel | Pandu |
+| Ekstraksi fitur & analisis (kontur, chain code, Fourier, jarak, luas) | Pandu | Aldy |
 | Laporan & slide | Bersama (draft: semua, editor: bergilir) | |
 
 ## Aturan main

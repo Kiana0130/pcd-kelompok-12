@@ -17,10 +17,10 @@ AOI_DIR = ROOT / "aoi"
 OUTPUT_DIR = ROOT / "outputs"
 
 # === AOI: pesisir Sayung–Timbulsloko, Demak ===
-# CATATAN: bbox ini USULAN awal — verifikasi dulu ketersediaan scene Landsat 2016
-# dan Sentinel-2 2026 yang minim awan sebelum difinalkan, lalu simpan sebagai
-# GeoJSON di aoi/ dan update nilai di sini. Maks 20x20 km (aturan brief).
-# Batas saat ini kira-kira 11 x 11 km.
+# STATUS 17 Nov 2026: bbox TERVERIFIKASI via katalog scene — Landsat path 120 row 065
+# (2016/2021/2026 tersedia, banyak yang cloud <10%) dan Sentinel-2 tile 49MDN.
+# GeoJSON resmi: aoi/sayung_timbulsloko.geojson. Kandidat scene: docs/kandidat_scene.md.
+# Batas saat ini kira-kira 11 x 11 km (maks 20x20 km sesuai brief).
 AOI_BBOX = {
     "west": 110.48,
     "south": -6.95,
